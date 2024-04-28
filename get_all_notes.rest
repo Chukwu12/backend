@@ -1,0 +1,7 @@
+POST   https://3001-chukwu12-backend-ykcdrgk4bxs.ws-us110.gitpod.io/api/notes  
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
